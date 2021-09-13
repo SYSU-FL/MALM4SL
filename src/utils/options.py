@@ -23,7 +23,7 @@ def parse_args():
     parser.add_argument('--dcor', action='store_true', help="whether to use the distance correlation")
 
     parser.add_argument('--gpu', type=int, default=0, help="the index of gpus")
-    parser.add_argument('--seed', type=int, default=666, help='random seed')#42
+    parser.add_argument('--seed', type=int, default=0, help='random seed')#42
     parser.add_argument('--verbose', type=int, default=1, help='verbose')
     parser.add_argument('--name', type=str)
     parser.add_argument('--cifar100', action='store_true', help="whether to use cifar100")
