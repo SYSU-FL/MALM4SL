@@ -1,7 +1,7 @@
 ## Code for Mixing Activations and Labels in Distributed Training for Split Learning
 ---
 ## Overview of MALM
-![avatar](MALM.pdf)
+![hustlin_erd](MALM.pdf)
 
 **Fig.1 the overview of Split Learning with MALM**
 
@@ -56,7 +56,7 @@
 > + --mnist.  whether using MNIST dataset
 
 ## Privacy-Preserving Experiments
-![avatar](results/Figures/Distance correlation (CIFAR-100).png)
+![avatar](results/Figures/Distance+correlation (CIFAR-100).png)
 
 **Fig.2 Distance correlation comparison under different settings. Experiments on CIFAR-100**
 
