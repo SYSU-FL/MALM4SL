@@ -8,7 +8,7 @@
 |--------**local.py**: stand-alone training (Non-split)\
 |--------**nopeeknn.py**: NoPeek training\
 |--------**single_malm.py**: exploring the mix operations of MALM \
-|--------**MALM.py**: malm (rebuild.....)\
+|--------**MALM.py**: malm (rebuilding.....)\
 |--------**vis_rec.ipynb**: experiments about client-side attacks\
 |--------**vis_rec_emnist.ipynb**: experiments about server-side attacks\
 |--------**models**: models used to train\
