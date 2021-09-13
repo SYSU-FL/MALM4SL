@@ -56,26 +56,26 @@
 > + --mnist.  whether using MNIST dataset
 
 ## Privacy-Preserving Experiments
-![avatar](results/Figures/Distance&#32;correlation (CIFAR-100).png)
+![avatar](results/Figures/DistanceCorrelation(CIFAR-100).png)
 
 **Fig.2 Distance correlation comparison under different settings. Experiments on CIFAR-100**
 
 ## Data Reconstruction Experiments
-![avatar](results/Reconstruction/client-side attacks/res-cifar100-raw.png)
+![avatar](results/Reconstruction/client-sideattacks/res-cifar100-raw.png)
 **Fig.3 20 samples of CIFAR-100 raw images**
-![avatar](results/reconstruction/client-side attacks/cifar100-slrec.png)
+![avatar](results/reconstruction/client-sideattacks/cifar100-slrec.png)
 **Fig.4 Case of data reconstraction (activations output from models trained by SL)**
-![avatar](results/reconstruction/client-side attacks/CIFAR-100(2-times).png)
+![avatar](results/reconstruction/client-sideattacks/CIFAR-100(2-times).png)
 **Fig.5 Case of data reconstraction (activations output from models trained by MALM(2-times))**
-![avatar](results/reconstruction/client-side attacks/CIFAR-100(2-times).png)
+![avatar](results/reconstruction/client-sideattacks/CIFAR-100(2-times).png)
 **Fig.5 Case of data reconstraction (activations output from models trained by MALM(3-times))**
-![avatar](results/reconstruction/client-side attacks/CIFAR-100(2-times).png)
+![avatar](results/reconstruction/client-sideattacks/CIFAR-100(2-times).png)
 **Fig.6 Case of data reconstraction (activations output from models trained by MALM(4-times))**
-![avatar](results/reconstruction/client-side attacks/CIFAR-100(2-times).png)
+![avatar](results/reconstruction/client-sideattacks/CIFAR-100(2-times).png)
 **Fig.7 Case of data reconstraction (activations output from models trained by MALM(5-times))**
-![avatar](results/reconstruction/client-side attacks/CIFAR-100(2-times).png)
+![avatar](results/reconstruction/client-sideattacks/CIFAR-100(2-times).png)
 **Fig.8 Case of data reconstraction (activations output from models trained by MALM(6-times))**
-![avatar](results/reconstruction/client-side attacks/CIFAR-100(2-times).png)
+![avatar](results/reconstruction/client-sideattacks/CIFAR-100(2-times).png)
 **Fig.9 Case of data reconstraction (activations output from models trained by MALM(7-times))**
 
 ## Acknowledge
