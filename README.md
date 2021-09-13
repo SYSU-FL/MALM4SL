@@ -56,7 +56,7 @@
 > + --mnist.  whether using MNIST dataset
 
 ## Privacy-Preserving Experiments
-![avatar](results/Figures/Distance+correlation (CIFAR-100).png)
+![avatar](results/Figures/Distance&#32;correlation (CIFAR-100).png)
 
 **Fig.2 Distance correlation comparison under different settings. Experiments on CIFAR-100**
 
