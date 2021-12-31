@@ -27,21 +27,6 @@
 |--------**Figures**: experimental results\
 |--------**reconstruction**: experimental results of data reconstrution
 
-##  Get Started
----
->  (non-split algorithm) python non-split.py --gpu 0 --name yourname --model [res18/res34/vgg16/cnn/mlp]
-
-> (FedAvg algorithm) python fl.py --gpu 0 --name yourname --model [res18/res34/vgg16/cnn/mlp]
-
-> (SplitNN algorithm) python sl.py --gpu 0 --name yourname --model [res18/res34/vgg16/cnn/mlp]
-
-> (DP-SL algorithm) python sl.py --gpu  0 --name yourname --dp --model [res18/res34/vgg16/cnn/mlp]
-
-> (NopeekNN algorithm) python nopeeknn.py --gpu 0 --name yourname --model [res18/res34/vgg16/cnn/mlp]
-
-> (SL with m mix times MALM) python single_malm.py --gpu 0 --name yourname --model [res18/res34/vgg16/cnn/mlp] --mix_num m
-
-> (SL with m mix times MALM) python malm.py --gpu 0 --name yourname --model [res18/res34/vgg16/cnn/mlp] --mix_num m --imbalanced --google_split
 ---
 ## Some Important Configurations
 > +  --epochs. The number of epochs to execute. E.g., --epochs 200
