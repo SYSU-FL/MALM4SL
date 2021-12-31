@@ -1,4 +1,4 @@
-## Code for Mixing Activations and Labels in Distributed Training for Split Learning
+## Some toy demo Codes for Mixing Activations and Labels in Distributed Training for Split Learning
 ---
 ## Overview of MALM
 ![hustlin_erd](MALM.pdf)
